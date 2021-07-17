@@ -2,7 +2,7 @@ import React from "react";
 
 import { Navbar } from "./navbar.js";
 import { Jumbotron } from "./jumbotron.js";
-import { Card } from "./card.js";
+import { Container } from "./container";
 import { Footer } from "./footer.js";
 
 export function Home() {
@@ -10,7 +10,7 @@ export function Home() {
 		<div>
 			<Navbar />
 			<Jumbotron />
-			<Card />
+			<Container />
 			<Footer />
 		</div>
 	);

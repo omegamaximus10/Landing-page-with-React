@@ -4,16 +4,13 @@ export function Jumbotron() {
 	return (
 		<div className="container">
 			<div className="jumbotron ">
-				<h1 className="display-4">Hello, world!</h1>
+				<h1 className="display-4">A Warm Welcome!</h1>
 				<p className="lead">
-					This is a simple hero unit, a simple jumbotron-style
-					component for calling extra attention to featured content or
-					information.
-				</p>
-				<hr className="my-4" />
-				<p>
-					It uses utility classNamees for typography and spacing to
-					space content out within the larger container.
+					Lorem Ipsum is simply dummy text of the printing and
+					typesetting industry. Lorem Ipsum has been the industrys
+					standard dummy text ever since the 1500s, when an unknown
+					printer took a galley of type and scrambled it to make a
+					type specimen book
 				</p>
 				<a className="btn btn-primary btn-lg" href="#" role="button">
 					Learn more
