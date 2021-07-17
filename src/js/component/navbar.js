@@ -7,6 +7,7 @@ export function Navbar() {
 				<a className="navbar-brand" href="#">
 					Start Bootstrap
 				</a>
+				]
 				<button
 					className="navbar-toggler"
 					type="button"
