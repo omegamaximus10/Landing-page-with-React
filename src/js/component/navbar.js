@@ -1,8 +1,9 @@
 import React from "react";
 
-export function Navbar (){
-
-    return (
-       gffgdg 
-    )
-};
+export function Navbar() {
+	return (
+<div>
+    
+</div>
+    );
+}

@@ -1,8 +1,7 @@
 import React from "react";
 
-export function Card (){
-
-    return (
-gfhh
-    )
+export function Card() {
+	return (
+        <div></div>
+    );
 }

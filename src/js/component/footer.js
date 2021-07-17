@@ -1,10 +1,8 @@
 import React from "react";
 
-export function Footer(){
-
-    return(
-
-        sdfg
-    )
-
-};
+export function Footer() {
+	return (
+        <div></div>
+    
+    );
+}
