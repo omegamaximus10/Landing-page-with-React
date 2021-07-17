@@ -1,6 +1,6 @@
 import React from "react";
 
-export function jumbotron (){
+export function Jumbotron (){
 
     return (
      gdfsgsd   

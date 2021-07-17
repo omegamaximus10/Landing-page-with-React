@@ -1,6 +1,6 @@
 import React from "react";
 
-export function card (){
+export function Card (){
 
     return (
 gfhh

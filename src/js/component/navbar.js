@@ -1,8 +1,8 @@
 import React from "react";
 
-export function navbar (){
+export function Navbar (){
 
     return (
        gffgdg 
     )
-}
+};
