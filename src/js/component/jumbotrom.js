@@ -1,8 +1,7 @@
 import React from "react";
 
-export function Jumbotron (){
-
-    return (
-     <div></div>  
-    )
-}
+export function Jumbotrom() {
+	return (
+    <div></div>
+) 
+};
